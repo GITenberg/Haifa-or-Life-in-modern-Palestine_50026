@@ -1,10 +1,14 @@
 _repo: Haifa-or-Life-in-modern-Palestine_50026
+_version: 0.1.0
 contributor:
   creator:
     editor:
       agent_name: Dana, Charles A.
       gutenberg_agent_id: '41915'
       url: http://www.gutenberg.org/2009/agents/41915
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Oliphant, Laurence
@@ -15,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6222
     wikipedia: http://en.wikipedia.org/wiki/Laurence_Oliphant_%28author%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50026#Haifa-or-Life-in-modern-Palestine
 gutenberg_issued: '2015-09-21'
 gutenberg_type: Text
 identifiers:
